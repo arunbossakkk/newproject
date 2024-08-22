@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  /* background: url('https://www.carehospitals.com/assets/images/main/vizag-health-city-704350.webp');
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+/* loader */
+.spinner {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  background-color: rgba(0, 0, 0, 0.383);
+}
+
+.form-btn {
+  width: 250px !important;
+  margin-top: 30px !important;
+}
